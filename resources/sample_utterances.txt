@@ -1,0 +1,15 @@
+answerQuestionIntent {Answer}
+answerQuestionIntent My answer is {Answer}
+answerQuestionIntent Is it {Answer}
+giveMeAHeadlineIntent Give me a headline
+giveMeAHeadlineIntent Give me another headline
+giveMeAHeadlineIntent Another headline
+giveMeAHeadlineIntent Another
+giveMeAHeadlineIntent Hit me up fam
+giveMeAHeadlineIntent Give me a question
+giveMeAHeadlineIntent Give me another question
+AMAZON.StopIntent Stop
+AMAZON.StopIntent Exit
+AMAZON.StopIntent Go away
+AMAZON.CancelIntent Cancel
+AMAZON.CancelIntent Exit

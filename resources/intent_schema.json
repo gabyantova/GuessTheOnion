@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Answer",
+          "type": "LIST_OF_ANSWERS"
+        }
+      ],
+      "intent": "answerQuestionIntent"
+    },
+    {
+      "intent": "giveMeAHeadlineIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
