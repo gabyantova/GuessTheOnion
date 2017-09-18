@@ -45,8 +45,8 @@ current_correct_answer = ""
 
 
 def get_headlines(type_of_onion):
-    user_pass_dict = {'user' : 'LetsReadAlexa',
-		      'passwd': 'helloalexa21',
+    user_pass_dict = {'user' : MYUSERNAME,
+		      'passwd': MYPASSWORD,
                       'api_type': 'json'}
     sess = requests.Session()
     sess.headers.update({'User-Agent': 'I am testing Alexa: Sentdex'})
